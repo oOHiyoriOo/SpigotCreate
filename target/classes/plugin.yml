@@ -1,0 +1,8 @@
+name: SpigotCreate
+version: '0.0.3'
+main: zero.discord.spigotcreate.Main
+api-version: '1.20'
+prefix: Create
+depend: [Oraxen]
+authors: [angryzero]
+description: Create mod Spigot port
