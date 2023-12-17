@@ -6,7 +6,7 @@ __ __
 >
 >Mostly this is learning more about Spigot and Java development, challenging myself and my Knowledge / Skill in Plugin development.
 >
->This is propably not going to be a well maintained / updated mod, as it's intended to be a wild playground for some learning and growing as a Developer.
+>This is propably not going to be a well maintained / updated Plugin, as it's intended to be a wild playground for some learning and growing as a Developer.
 >
 >If you know of an Improvment, that can be made, feel free to Tell me / us, as the whole point here is getting better.
 
